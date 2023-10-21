@@ -1,0 +1,14 @@
+C:\Users\matti\source\repos\Labo 18-10 oplossing oef 1\Labo 18-10 oplossing oef 1\obj\Debug\net7.0\Labo 18-10 oplossing oef 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matti\source\repos\Labo 18-10 oplossing oef 1\Labo 18-10 oplossing oef 1\obj\Debug\net7.0\Labo 18-10 oplossing oef 1.AssemblyInfoInputs.cache
+C:\Users\matti\source\repos\Labo 18-10 oplossing oef 1\Labo 18-10 oplossing oef 1\obj\Debug\net7.0\Labo 18-10 oplossing oef 1.AssemblyInfo.cs
+C:\Users\matti\source\repos\Labo 18-10 oplossing oef 1\Labo 18-10 oplossing oef 1\obj\Debug\net7.0\Labo 18-10 oplossing oef 1.csproj.CoreCompileInputs.cache
+C:\Users\matti\source\repos\Labo 18-10 oplossing oef 1\Labo 18-10 oplossing oef 1\bin\Debug\net7.0\Labo 18-10 oplossing oef 1.exe
+C:\Users\matti\source\repos\Labo 18-10 oplossing oef 1\Labo 18-10 oplossing oef 1\bin\Debug\net7.0\Labo 18-10 oplossing oef 1.deps.json
+C:\Users\matti\source\repos\Labo 18-10 oplossing oef 1\Labo 18-10 oplossing oef 1\bin\Debug\net7.0\Labo 18-10 oplossing oef 1.runtimeconfig.json
+C:\Users\matti\source\repos\Labo 18-10 oplossing oef 1\Labo 18-10 oplossing oef 1\bin\Debug\net7.0\Labo 18-10 oplossing oef 1.dll
+C:\Users\matti\source\repos\Labo 18-10 oplossing oef 1\Labo 18-10 oplossing oef 1\bin\Debug\net7.0\Labo 18-10 oplossing oef 1.pdb
+C:\Users\matti\source\repos\Labo 18-10 oplossing oef 1\Labo 18-10 oplossing oef 1\obj\Debug\net7.0\Labo 18-10 oplossing oef 1.dll
+C:\Users\matti\source\repos\Labo 18-10 oplossing oef 1\Labo 18-10 oplossing oef 1\obj\Debug\net7.0\refint\Labo 18-10 oplossing oef 1.dll
+C:\Users\matti\source\repos\Labo 18-10 oplossing oef 1\Labo 18-10 oplossing oef 1\obj\Debug\net7.0\Labo 18-10 oplossing oef 1.pdb
+C:\Users\matti\source\repos\Labo 18-10 oplossing oef 1\Labo 18-10 oplossing oef 1\obj\Debug\net7.0\Labo 18-10 oplossing oef 1.genruntimeconfig.cache
+C:\Users\matti\source\repos\Labo 18-10 oplossing oef 1\Labo 18-10 oplossing oef 1\obj\Debug\net7.0\ref\Labo 18-10 oplossing oef 1.dll
