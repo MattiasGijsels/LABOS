@@ -17,7 +17,7 @@
                         isRunning = false;
                         break;
                     case "echo":
-                        Console.WriteLine($"You Wite '{input}");
+                        Console.WriteLine($"You Wrote '{input}");
                         break;
                     case "clear":
                         Console.Clear();
